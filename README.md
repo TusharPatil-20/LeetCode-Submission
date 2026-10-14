@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/0047-permutations-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
@@ -13,9 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/0047-permutations-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
