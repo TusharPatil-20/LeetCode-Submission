@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/0047-permutations-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/0047-permutations-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
