@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/0047-permutations-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -198,5 +200,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/TusharPatil-20/LeetCode-Submission/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
